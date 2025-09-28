@@ -1,0 +1,15 @@
+requests
+typing
+pandas
+bs4
+streamlit
+yfinance
+agno.agent
+agno.models.google
+plotly.graph_objects
+google-genai
+google.generativeai
+kaleido
+langchain
+langchain_community.chat_models.perplexity
+langchain.chains
